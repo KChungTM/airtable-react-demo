@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/airtable-react-demo/static/css/main.865a6177.css",
-    "main.js": "/airtable-react-demo/static/js/main.ff502490.js",
+    "main.js": "/airtable-react-demo/static/js/main.534cf618.js",
     "static/js/787.66daa729.chunk.js": "/airtable-react-demo/static/js/787.66daa729.chunk.js",
     "static/media/Comic_Sans.woff": "/airtable-react-demo/static/media/Comic_Sans.ec0f9d45b8e910d53ee5.woff",
     "index.html": "/airtable-react-demo/index.html",
     "main.865a6177.css.map": "/airtable-react-demo/static/css/main.865a6177.css.map",
-    "main.ff502490.js.map": "/airtable-react-demo/static/js/main.ff502490.js.map",
+    "main.534cf618.js.map": "/airtable-react-demo/static/js/main.534cf618.js.map",
     "787.66daa729.chunk.js.map": "/airtable-react-demo/static/js/787.66daa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.865a6177.css",
-    "static/js/main.ff502490.js"
+    "static/js/main.534cf618.js"
   ]
 }
